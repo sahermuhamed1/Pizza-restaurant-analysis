@@ -64,7 +64,7 @@ the sql queris contains a 11 type of queries:
 9. Top 5 Pizzas by Quantity
 10. Bottom 5 Pizzas by Quantity
 
-to view the SQL queries [Click Here](./PIZZA%20SALES%20SQL%20QUERIES.pdf)
+to view the SQL queries [Click Here](./PIZZA%20SALES%20SQL%20QUERIES.docx.pdf)
 
 
 
