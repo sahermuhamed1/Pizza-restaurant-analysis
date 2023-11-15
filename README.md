@@ -64,7 +64,8 @@ the sql queris contains a 11 type of queries:
 9. Top 5 Pizzas by Quantity
 10. Bottom 5 Pizzas by Quantity
 
-to view the SQL queries click [Here](./PIZZA_SALES_SQL_QUERIES.md)
+to view the SQL queries [Click Here](./PIZZA%20SALES%20SQL%20QUERIES.pdf)
+
 
 
 
@@ -78,6 +79,7 @@ I used Power Query to clean and preprocess my data before visualizing it, follow
 5. Substitute specific values to refine and standardize the data.
 
 # Usage
-to acces the Dashboard [Here](.Pizza restaurant.pbix)
-to access the Dataset [Here](./pizza_sales_excel_file (1).xlsx)
+to acces the Dashboard [Click Here](./Pizza%20restaurant.pbix)
+
+to access the Dataset [Click Here](./pizza_sales_excel_file%20(1).xlsx)
 
