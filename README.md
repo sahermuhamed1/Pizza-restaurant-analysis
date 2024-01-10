@@ -3,11 +3,18 @@ Pizza restaurant analysis using Power BI + Power Query
 
 # Table of Contents
 1.**Introduction**
+
 1.**Overview Dashboard**
+
 3.**Dataset**
-4.**SQL**
-5.**Power Query**
-6.**Usage**
+
+4.**Python EDA and Visualization**
+
+5.**SQL**
+
+6.**Power Query**
+
+7.**Usage**
 
 # Intoduction
 The project aims to analyze the 'Pizza restaurant' dataset to derive insights and facilitate data-driven decision-making for anyone interested in data analysis and dashboards.
@@ -50,6 +57,13 @@ The dataset contains the following columns:
 -Order Month
 
 
+# Python for EDA and Visualization
+
+I utilized Python for Exploratory Data Analysis (EDA), data cleansing, and proficient data visualization to ensure a comprehensive and precise understanding of the dataset. Python's versatile libraries allowed me to perform intricate data cleaning tasks, ensuring data integrity and consistency. Moreover, employing advanced visualization techniques enabled the creation of insightful graphical representations that facilitated easy comprehension and acceptance by users.
+
+to access Kaggle notebook [Click Here](https://www.kaggle.com/code/nextmillionaire/pizza-sales-eda-and-data-visuaization)
+
+
 # SQL
 **SQl queries**
 the sql queris contains a 11 type of queries:
@@ -80,6 +94,7 @@ I used Power Query to clean and preprocess my data before visualizing it, follow
 
 # Usage
 to acces the Dashboard [Click Here](./Pizza%20restaurant.pbix)
-
-to access the Dataset [Click Here](./pizza_sales_excel_file%20(1).xlsx)
+to access Kaggle notebook [Click Here](https://www.kaggle.com/code/nextmillionaire/pizza-sales-eda-and-data-visuaization)
+to access the SQL Kpis [Click Here](https://github.com/sahermuhamed1/Pizza-restaurant-analysis/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx)
+to access the Dataset [Click Here](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
 
