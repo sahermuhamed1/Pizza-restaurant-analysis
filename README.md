@@ -94,7 +94,10 @@ I used Power Query to clean and preprocess my data before visualizing it, follow
 
 # Usage
 to acces the Dashboard [Click Here](./Pizza%20restaurant.pbix)
+
 to access Kaggle notebook [Click Here](https://www.kaggle.com/code/nextmillionaire/pizza-sales-eda-and-data-visuaization)
+
 to access the SQL Kpis [Click Here](https://github.com/sahermuhamed1/Pizza-restaurant-analysis/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx)
+
 to access the Dataset [Click Here](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
 
