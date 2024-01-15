@@ -1,5 +1,5 @@
 # Pizza-restaurant-analysis
-Pizza restaurant analysis using Power BI + Power Query
+Pizza restaurant analysis using Python + SQL + Power BI + Power Query
 
 # Table of Contents
 1.**Introduction**
